@@ -28,26 +28,6 @@ The **AI-Powered Resume Analyzer** is a web application that allows users to upl
 - **TensorFlow / NLP Libraries** (Advanced text processing)  
 
 
-## 📂 Project Structure
-```
-AI-Resume-Analyzer/
-│── backend/                # Backend Code (Flask + Python)
-│   ├── uploads/             #for storing 
-│   ├── utils/              # Helper Functions
-│   ├── app.py              # Entry Point
-│
-│── frontend/               # Frontend Code (React + Vite)
-│   ├── src/
-│   │   ├── components/     # React Components
-│   │   ├── pages/          # Pages
-│   │   ├── router.jsx      # React Router Config
-│   │   ├── App.jsx         # Root Component
-│   │   ├── main.jsx        # Entry Point
-│
-│── README.md               # Documentation
-│── package.json            # Dependencies
-```
-
 ## 🔧 Setup
 
 ### 1 Backend Setup
