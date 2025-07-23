@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+.env.local
+.env.development
+.env.production
+
+# Uploaded files
+/uploads/
+*.log
+
+# Dependency directories
+node_modules/
+package-lock.json
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Logs and debugging
+logs/
+*.log
+debug.log
+nohup.out
+
+# Flask cache and session files
+instance/
+.cache/
+*.db
+*.sqlite3

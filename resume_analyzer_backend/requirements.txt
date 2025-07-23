@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+pdfminer.six
+python-docx
+openai
